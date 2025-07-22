@@ -17,17 +17,17 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Matheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="300em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Matheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="200em" alt="stats graph"  />
 </div>
 
 ###
 
-<img align="right" height="250em" src="https://img1.picmix.com/output/pic/normal/7/2/1/3/12043127_fe25e.gif"  />
+<img align="right" height="180em" src="https://img1.picmix.com/output/pic/normal/7/2/1/3/12043127_fe25e.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Matheus&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="250em" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Matheus&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="180em" alt="languages graph"  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Matheus&area=true&theme=chartreuse-dark&radius=10&point=6c07fa&title_color=822ff7" height="400em" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Matheus&area=true&theme=chartreuse-dark&radius=10&point=6c07fa&title_color=822ff7" height="300em" alt="activity-graph graph"  />
 </div>
 
 ###
