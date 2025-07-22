@@ -1,22 +1,48 @@
-## Bem-vindo(a) ao meu perfil 😁
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Leo-Matheus.Leo-Matheus&left_color=darkviolet&right_color=royalblue"  />
 
- <div>
-   <a href="https://github.com/Leo-Matheus">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leo-Matheus&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Matheus&layout=compact&langs_count=6&theme=neon"/>
+###
+
+<h2 align="left">👾Olá! Seja bem-vindo ao meu perfil.👾</h2>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leo-Matheus/Leo-Matheus/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leo-Matheus/Leo-Matheus/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Leo-Matheus/Leo-Matheus/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Matheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="300em" alt="stats graph"  />
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+###
+
+<img align="right" height="250em" src="https://img1.picmix.com/output/pic/normal/7/2/1/3/12043127_fe25e.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Matheus&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="250em" alt="languages graph"  />
 </div>
- 
-<br>
- 
-### Minhas redes:
- 
-<div>  
-  <a href = "mailto:leonardomatheus.gs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leo-matheus8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Matheus&area=true&theme=chartreuse-dark&radius=10&point=6c07fa&title_color=822ff7" height="400em" alt="activity-graph graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30em" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30em" alt="gmail logo"  />
+</div>
+
+###
