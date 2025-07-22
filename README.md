@@ -16,13 +16,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Matheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="200em" alt="stats graph"  />
-</div>
-
-###
-
-<img align="right" height="180em" src="https://img1.picmix.com/output/pic/normal/7/2/1/3/12043127_fe25e.gif"  />
+<img align="right" height="200em" src="https://img1.picmix.com/output/pic/normal/7/2/1/3/12043127_fe25e.gif"  />
 
 ###
 
@@ -32,17 +26,23 @@
 
 ###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Matheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true" height="240em" alt="stats graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Matheus&area=true&theme=chartreuse-dark&radius=10&point=6c07fa&title_color=822ff7" height="300em" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Matheus&area=true&theme=chartreuse-dark&radius=10&point=6c07fa&title_color=822ff7" height="360em" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30em" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30em" alt="gmail logo"  />
+  <a href = "mailto:leonardomatheus.gs@gmail.com"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40em" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/leo-matheus8" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40em" alt="gmail logo"  /></a>
 </div>
 
 ###
